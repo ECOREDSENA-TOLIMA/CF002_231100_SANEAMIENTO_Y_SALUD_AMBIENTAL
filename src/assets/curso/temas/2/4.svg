@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="269" viewBox="0 0 1030 269">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#defff8"/>
+      <stop offset="0.803" stop-color="#eaf5ff"/>
+      <stop offset="1" stop-color="#f0feff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1.052" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fefefe"/>
+      <stop offset="1" stop-color="#f1d8ff"/>
+    </linearGradient>
+    <filter id="Rectángulo_377821" x="48" y="52.5" width="885" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_822891" x="112.919" y="25" width="150.684" height="199.875" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_822891-2" x="293.315" y="25" width="150.684" height="199.875" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_822891-3" x="466.658" y="25" width="150.684" height="199.875" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_822891-4" x="647.44" y="25" width="150.684" height="199.875" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Trazado_822891-5" x="838.315" y="25" width="150.684" height="199.875" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1073634" data-name="Grupo 1073634" transform="translate(-285 -2075.811)">
+    <g id="Grupo_1073626" data-name="Grupo 1073626" transform="translate(0 993.811)">
+      <g id="Grupo_1072963" data-name="Grupo 1072963" transform="translate(1315 1351) rotate(180)">
+        <rect id="Rectángulo_376022" data-name="Rectángulo 376022" width="1030" height="269" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Grupo_1073632" data-name="Grupo 1073632" transform="translate(0.5 20)">
+      <g transform="matrix(1, 0, 0, 1, 284.5, 2055.81)" filter="url(#Rectángulo_377821)">
+        <rect id="Rectángulo_377821-2" data-name="Rectángulo 377821" width="867" height="142" rx="29" transform="translate(57 58.5)" fill="url(#linear-gradient-2)"/>
+      </g>
+      <g id="Grupo_1073627" data-name="Grupo 1073627" transform="translate(412.419 2100.811)">
+        <path id="Trazado_822892" data-name="Trazado 822892" d="M-3509.911-9053.576H-3522V-9066.5Z" transform="translate(3522.417 9066.5)" fill="#7d9265"/>
+        <path id="Trazado_822893" data-name="Trazado 822893" d="M-3506.911-8880H-3519v15.008Z" transform="translate(3521.918 9035.492)" fill="#7d9265"/>
+        <g transform="matrix(1, 0, 0, 1, -127.92, -45)" filter="url(#Trazado_822891)">
+          <path id="Trazado_822891-6" data-name="Trazado 822891" d="M-3520.5-9067h52.109l68.575,85.041-68.575,84.834h-50.649l68.367-84.834Z" transform="translate(3648.42 9112)" fill="#c1e29a"/>
+        </g>
+      </g>
+      <g id="Grupo_1073628" data-name="Grupo 1073628" transform="translate(592.816 2100.811)">
+        <path id="Trazado_822892-2" data-name="Trazado 822892" d="M-3509.911-9053.576H-3522V-9066.5Z" transform="translate(3522.417 9066.5)" fill="#819466"/>
+        <path id="Trazado_822893-2" data-name="Trazado 822893" d="M-3506.911-8880H-3519v15.008Z" transform="translate(3521.918 9035.492)" fill="#819466"/>
+        <g transform="matrix(1, 0, 0, 1, -308.32, -45)" filter="url(#Trazado_822891-2)">
+          <path id="Trazado_822891-7" data-name="Trazado 822891" d="M-3520.5-9067h52.109l68.575,85.041-68.575,84.834h-50.649l68.367-84.834Z" transform="translate(3828.82 9112)" fill="#c1e29a"/>
+        </g>
+      </g>
+      <g id="Grupo_1073629" data-name="Grupo 1073629" transform="translate(766.158 2100.811)">
+        <path id="Trazado_822892-3" data-name="Trazado 822892" d="M-3509.911-9053.576H-3522V-9066.5Z" transform="translate(3522.417 9066.5)" fill="#819466"/>
+        <path id="Trazado_822893-3" data-name="Trazado 822893" d="M-3506.911-8880H-3519v15.008Z" transform="translate(3521.918 9035.492)" fill="#819466"/>
+        <g transform="matrix(1, 0, 0, 1, -481.66, -45)" filter="url(#Trazado_822891-3)">
+          <path id="Trazado_822891-8" data-name="Trazado 822891" d="M-3520.5-9067h52.109l68.575,85.041-68.575,84.834h-50.649l68.367-84.834Z" transform="translate(4002.16 9112)" fill="#c1e29a"/>
+        </g>
+      </g>
+      <g id="Grupo_1073630" data-name="Grupo 1073630" transform="translate(946.941 2100.811)">
+        <path id="Trazado_822892-4" data-name="Trazado 822892" d="M-3509.911-9053.576H-3522V-9066.5Z" transform="translate(3522.417 9066.5)" fill="#819466"/>
+        <path id="Trazado_822893-4" data-name="Trazado 822893" d="M-3506.911-8880H-3519v15.008Z" transform="translate(3521.918 9035.492)" fill="#819466"/>
+        <g transform="matrix(1, 0, 0, 1, -662.44, -45)" filter="url(#Trazado_822891-4)">
+          <path id="Trazado_822891-9" data-name="Trazado 822891" d="M-3520.5-9067h52.109l68.575,85.041-68.575,84.834h-50.649l68.367-84.834Z" transform="translate(4182.94 9112)" fill="#c1e29a"/>
+        </g>
+      </g>
+      <g id="Grupo_1073631" data-name="Grupo 1073631" transform="translate(1137.816 2100.811)">
+        <path id="Trazado_822892-5" data-name="Trazado 822892" d="M-3509.911-9053.576H-3522V-9066.5Z" transform="translate(3522.417 9066.5)" fill="#819466"/>
+        <path id="Trazado_822893-5" data-name="Trazado 822893" d="M-3506.911-8880H-3519v15.008Z" transform="translate(3521.918 9035.492)" fill="#819466"/>
+        <g transform="matrix(1, 0, 0, 1, -853.32, -45)" filter="url(#Trazado_822891-5)">
+          <path id="Trazado_822891-10" data-name="Trazado 822891" d="M-3520.5-9067h52.109l68.575,85.041-68.575,84.834h-50.649l68.367-84.834Z" transform="translate(4373.82 9112)" fill="#c1e29a"/>
+        </g>
+      </g>
+      <text id="Prevención" transform="translate(365.5 2189.311)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Prevención</tspan></text>
+      <text id="Reutilización" transform="translate(543.702 2189.265)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Reutilización</tspan></text>
+      <text id="Reciclado" transform="translate(730.5 2189.311)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Reciclado</tspan></text>
+      <text id="Valorización" transform="translate(897.441 2189.311)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Valorización</tspan></text>
+      <text id="Eliminación" transform="translate(1079.5 2189.311)" fill="#12263f" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">Eliminación</tspan></text>
+    </g>
+  </g>
+</svg>

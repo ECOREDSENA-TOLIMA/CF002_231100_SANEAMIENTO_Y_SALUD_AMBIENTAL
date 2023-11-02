@@ -32,28 +32,112 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Inspección de condiciones sanitarias',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Conceptos y tipos',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Tipos de medidas sanitarias',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Protocolos y procedimientos',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Tipos de establecimientos para inspección',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Autoridades sanitarias',
+            hash: 't_1_5',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Trazabilidad de manejo de residuos sólidos',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Conceptos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Características y tipos',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Métodos de clasificación, disposición y aprovechamiento',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Normatividad ambiental',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo:
+          'Valoración y recolección de información de condiciones sanitarias',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Procedimiento de valoración de puntajes de riesgo',
+            hash: 't_2_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Características de validación de documentos',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Reporte concepto sanitario',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo:
+              'Tipos de leyes de salud pública enfocadas en riesgo sanitario',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Características de protocolos de manejo del riesgo',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo: 'Tipos de procedimiento de intervención sanitaria',
+            hash: 't_4_3',
+          },
+          {
+            numero: '4.4',
+            titulo:
+              'Características de manuales y guías de inspección sanitaria',
+            hash: 't_4_4',
+          },
+        ],
       },
     ],
     subMenu: [
