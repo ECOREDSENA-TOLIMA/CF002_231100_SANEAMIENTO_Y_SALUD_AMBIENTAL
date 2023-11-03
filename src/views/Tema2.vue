@@ -116,8 +116,65 @@
           .row.justify-content-center.d-lg-none.d-md-none        
             img(src="@/assets/curso/temas/2/11.svg" data-aos="zoom-in-up")        
     
+    Separador.mt-5        
 
+    .cont_2_3.pt-3(style="position:relative;")
+      .titulo-segundo.color-acento-contenido(style="position:relative")
+        h2#t_2_3 2.3 Métodos de clasificación, disposición y aprovechamiento
+
+    p La clasificación de estos residuos sólidos varía depende de la terminología que se aplique; es decir, que no solo ocurre en las ciudades, sino también en la parte rural e incluso donde el ser humano tenga algún tipo de interacción con el medio ambiente. 
+    p.my-5 Existen tres criterios para realizar la clasificación de los residuos sólidos:
+
+    .row.justify-content-center 
+      .col-sm.mb-5.mb-sm-0
+        ol.lista-ol--cuadro(style="border-radius: 20px; background-color: #D5FFF5") 
+          li 
+            .lista-ol--cuadro__vineta(style="border-radius: 10px;") 
+              span a.
+            b.mx-5 Peligrosidad de los residuos
+      .col-sm.mb-5.mb-sm-0
+        ol.lista-ol--cuadro(style="border-radius: 20px; background-color: #D5FFF5") 
+          li 
+            .lista-ol--cuadro__vineta(style="border-radius: 10px;") 
+              span b.
+            b.mx-5 Origen de los residuos 
+      .col-sm.mb-5.mb-sm-0
+        ol.lista-ol--cuadro(style="border-radius: 20px; background-color: #D5FFF5") 
+          li 
+            .lista-ol--cuadro__vineta(style="border-radius: 10px;")  
+              span c.
+            b.mx-5.p-4 Composición
+
+      p.my-5 Es importante destacar que la clasificación de los residuos sólidos debe generar un grado de efectividad amplio, según las siguientes consideraciones; iniciando según su peligrosidad:   
    
+      .tarjeta--container.row
+        .col-md.tarjeta.p-5(style="background-color:#C1E29A")
+          .row.justify-content-center.mb-4
+            .col-6
+              figure
+                img(src='@/assets/componentes/ej-05.svg', alt='Texto que describa la imagen')
+
+          h2.text-center Residuos inertes
+          p Estos residuos son los que no tienen transformaciones físicas, químicas o biológicas, de igual manera, no reaccionan a ninguna transformación, no son biodegradables y no afectan en gran mayoría a la contaminación del medio ambiente, un claro ejemplo de estos residuos son los de la construcción.
+        .col-md.tarjeta.p-5(style="background-color:#D5FFF5")
+          .row.justify-content-center.mb-4
+            .col-6
+              figure
+                img(src='@/assets/componentes/ej-05.svg', alt='Texto que describa la imagen')
+
+          h2.text-center Residuos no peligrosos
+          p Se pueden definir como aquellos que no son ni inertes ni peligrosos. Así, por ejemplo, son residuos no peligrosos el plástico, el papel/cartón, o el metal, siempre que no estén contaminados por alguna sustancia peligrosa.
+        .col-md.tarjeta.p-5(style="background-color:#F1D8FF")
+          .row.justify-content-center.mb-4
+            .col-6
+              figure
+                img(src='@/assets/componentes/ej-05.svg', alt='Texto que describa la imagen')
+          h2.text-center Residuos peligrosos
+          p Estos son un riesgo para el medio ambiente y los seres vivos, podemos encontrar aquí envases con contenido peligroso como los de aceites, disolventes, etc.
+    
+    p.my-5  De la misma manera, se pueden clasificar según su origen:
+   
+
 
 </template>
 
