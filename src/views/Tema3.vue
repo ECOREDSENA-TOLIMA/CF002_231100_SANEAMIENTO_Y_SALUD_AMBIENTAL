@@ -102,14 +102,14 @@
         .row(titulo="2. Identificación del establecimiento")
           
           .col-md-6.mb-4.mb-md-0
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            p Razón social, NIT, dirección, nombre comercial, barrio, nombre del propietario, documento de identificación, entre otros datos.
 
           .col-md-6
             figure
               img(src='@/assets/curso/temas/3/5.svg', alt='Texto que describa la imagen')
         .row(titulo="3. Concepto sanitario de la última visita")
           .col-md-6.mb-4.mb-md-0
-            p En este irán datos como la ciudad, fecha, número de acta y a qué tipo de establecimiento se le hará la visita (comercial, espectáculo público o de diversión pública).
+            p De acuerdo con lo establecido en la Resolución 2674 de 2013, el concepto sanitario es “el concepto emitido por la autoridad sanitaria una vez realizada la inspección, vigilancia y control al establecimiento donde se fabriquen, procesen, preparen, envasen, almacenen transporten, distribuyan, comercialicen, importen o exporten alimentos o sus materias primas. Este concepto puede ser favorable o desfavorable, dependiendo de la situación encontrada”.  Teniendo el concepto sanitario, se cumple el  requerimiento sobre la naturaleza de lo que se realiza en el negocio, como por ejemplo son preparación de alimentos para consumo humano.
 
           .col-md-6
             figure
@@ -118,7 +118,7 @@
         .row(titulo="4. Motivo de nueva visita")
           
           .col-md-6.mb-4.mb-md-0
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            p Esto puede ser por solicitud propia del propietario, programación, solicitud oficial, evento de interés público, etc. 
 
           .col-md-6
             figure
@@ -126,7 +126,7 @@
 
         .row(titulo="5. Aspectos a evaluar")
           .col-md-6.mb-4.mb-md-0
-            p En este irán datos como la ciudad, fecha, número de acta y a qué tipo de establecimiento se le hará la visita (comercial, espectáculo público o de diversión pública).
+            p Aspectos a evaluar:  condiciones locativas. 
 
           .col-md-6
             figure
@@ -135,7 +135,7 @@
         .row(titulo="6. Criterios que miden el puntaje")
           
           .col-md-6.mb-4.mb-md-0
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            p Criterios: aspecto de seguridad como el abastecimiento del agua. 
 
           .col-md-6
             figure
@@ -143,7 +143,7 @@
 
         .row(titulo="7. Manejo de residuos sólidos y plagas")
           .col-md-6.mb-4.mb-md-0
-            p En este irán datos como la ciudad, fecha, número de acta y a qué tipo de establecimiento se le hará la visita (comercial, espectáculo público o de diversión pública).
+            p Definir el plan de saneamiento básico, dentro del cual se presenta el programa de desechos sólidos y de control de plagas con objetivos, alcance y definiciones. 
 
           .col-md-6
             figure
@@ -152,7 +152,7 @@
         .row(titulo="8. Porcentaje de cumplimiento")
           
           .col-md-6.mb-4.mb-md-0
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            p El porcentaje implica un puntaje asociado que valora todos los conceptos y se traduce en el concepto “favorable” o “desfavorable”.
 
           .col-md-6
             figure
@@ -161,11 +161,40 @@
         .row(titulo="9. Firma de los funcionarios que realizan la visita")
           
           .col-md-6.mb-4.mb-md-0
-            p This is another paragraph. I think it needs to be added that the set of elements tested is not exhaustive in any sense. I have selected those elements for which it can make sense to write user style sheet rules, in my opionion.
+            p La validación debe contener las firmas de los funcionarios que realizan la visita y de las personas por parte del establecimiento para que tenga validez.
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/3/12.svg', alt='Texto que describa la imagen')           
+              img(src='@/assets/curso/temas/3/12.svg', alt='Texto que describa la imagen')    
+
+    .row.mb-5
+      .col-auto.my-5.mb-sm-0        
+        ol.lista-ol--cuadro(style="border-radius: 20px; background-color: #C1E29A") 
+          li 
+            .lista-ol--cuadro__vineta(style="border-radius: 10px; background-color: #C1E29A") 
+              .col  
+              img(src="@/assets/curso/temas/2/23.svg" style="max-width: 65%; display: block; margin-top: -12px; " ) 
+            b.mx-5 Listas de verificación y manuales de procedimiento 
+
+    .row.justify-content-center.mb-5(data-aos="fade-right")
+      .col-lg-12          
+        .row 
+          .bloque-texto-g.color-primario.p-4
+            .bloque-texto-g__img(
+              :style="{'background-image': `url(${require('@/assets/curso/temas/3/15.png')})`}"
+            )
+            .bloque-texto-g__texto.p-4.my-3
+              p.pt-1.pb-3 En primera medida es importante conocer sobre el manual de procedimientos, el cual ayuda a cumplir los estándares por medio de los formatos puestos en cada visita a los establecimientos, las principales ventajas de estos procedimientos son el ahorro de tiempo en cada visita, ya que teniendo una lista donde se verifican los puntos, el funcionario que realiza la visita se enfocará solo en estos. <br> <br>  
+
+              p.pt-1.pb-3 Por otro lado, se tiene a favor el manejo de control interno, garantizando la disminución de las irregularidades y evitar posibles fallas, de igual manera, delimita responsabilidades, ya que los documentos al estar estandarizados y si llegase a ocurrir un problema, existen evidencias de la persona a cargo del proceso. <br> <br>
+
+              p.pt-1.pb-3 Por último, está la imagen de las diferentes entidades, ya que genera confianza y mayor reputación, lo anterior se realiza como lo establece la norma.
+
+    p.pb-3 Cada manual de procedimientos debe tener unos elementos básicos, donde se encuentran el título, marco normativo, objetivo del documento, los responsables o quien lo revisa, breve descripción de los procesos, diagrama de flujo y, por último, un glosario el cual ayuda a entender un poco más este manual.
+    
+
+                
+
 
 </template>
 

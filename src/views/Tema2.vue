@@ -333,7 +333,7 @@
               td Ley 99 de 1993   
               td Por la cual se crea el Ministerio de Ambiente y Sistema Nacional Ambiental SINA.
             tr
-              td Ley 142de 1994
+              td Ley 142 de 1994
               td Ley de los Servicios Públicos domiciliarios.
             tr
               td Decreto 596 de 2016
