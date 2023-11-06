@@ -198,41 +198,40 @@
             caption Nota. Tomada del Instituto de Vigilancia de Medicamentos y Alimentos- Invima. 
             thead
               tr
-                th(style="background-color:#FFAE7E") Actividad
-                th(style="background-color:#FFAE7E") Autoridad competente
-              tr-2  
-              th(style="background-color:#FFAE7E") Invima
-              th(style="background-color:#FFAE7E") Entidad territorial de salud
-
+                th.text-center(style="background-color:#FFAE7E" rowspan="2") Actividad
+                th.text-center(style="background-color:#FFAE7E; " colspan="2") Autoridad competente 
+              tr
+                th.text-center(style="background-color:#FFAE7E") invima 
+                th.text-center(style="background-color:#FFAE7E") entidad
             tbody    
             tr
               th Fabricación 
-              th x
-              td 
+              th.text-center x
+              td.text-center 
             tr
               th Preparación   
-              td 
-              td x
+              th.text-center 
+              th.text-center x
             tr
               th Ensamble de refrigerios o menús
-              td 
-              td x
+              th.text-center 
+              th.text-center x
             tr
               th Almacenamiento
-              td 
-              td x
+              th.text-center 
+              th.text-center x
             tr
               th Distribución
-              td 
-              td x
+              th.text-center 
+              th.text-center x
             tr
               th Expendio o Comercialización
-              td 
-              td x
+              th.text-center 
+              th.text-center x
             tr
               th Vehículos transportadores de alimentos
-              td 
-              td x
+              th.text-center
+              th.text-center x
 
     p.my-4 Realizar la inscripción en el Invima es muy sencillo, solo debe ingresar a la página web de la institución www.invima.gov.co y seguir el paso a paso, también los establecimientos que deban realizar el proceso ante la Entidad Territorial de Salud (ETS) deben, primero, revisar en qué categoría se encuentra el municipio en el que están ubicados y después se adelantará la visita de la ETS dependiendo si es departamental o municipal.
 
