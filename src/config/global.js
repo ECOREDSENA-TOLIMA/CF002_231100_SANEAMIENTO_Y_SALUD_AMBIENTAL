@@ -2,7 +2,8 @@ export default {
   global: {
     componenteFormativo:
       'Caracterización de condiciones sanitarias de establecimientos',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    descripcionCurso:
+      'En este componente formativo se tratarán los temas respecto a las condiciones sanitarias en los establecimientos, plasmando así toda la información relevante para este proceso.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
