@@ -4,7 +4,7 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
     .titulo-sexto.color-adicional-2.mb-3
-        h2 Gestión de empresas pecuarias
+        h2 Saneamiento y salud ambiental
         i Síntesis: Caracterización de condiciones sanitarias de establecimientos
 
     p.my-5 A continuación, se describe el tema principal del componente formativo Caracterización de condiciones sanitarias de establecimientos según normativas es esencial para garantizar la seguridad y bienestar de las personas. En este proceso se evalúan aspectos como la higiene y limpieza de las instalaciones, el manejo adecuado de los alimentos, el control de plagas y la disposición de residuos. Asimismo, se verifica el cumplimiento de las normas de bioseguridad, el mantenimiento de equipos médicos y la capacitación del personal en medidas de prevención de enfermedades. Esta caracterización permite identificar deficiencias y tomar acciones correctivas, asegurando entornos saludables y protegiendo la salud de los usuarios y trabajadores de dichos establecimientos.
