@@ -32,7 +32,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10 
         figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
-          img.mb-1(src='@/assets/curso/temas/3/1.svg' alt='Residuos domésticos: Residuos generados en los hogares como consecuencia de las actividades domésticas. Se consideran también domésticos aquellos residuos similares generados en servicios e industrias. Residuos comerciales: Residuos generados por la actividad propia del comercio, al por mayor y al por menor, de los servicios de restauración y bares, de las oficinas y de los mercados, así como del resto del sector servicios. Residuos industriales: Residuos resultantes de los procesos de fabricación, de transformación, de utilización, de consumo, de limpieza o de mantenimiento generados por la actividad industrial, excluidas las emisiones a la atmósfera reguladas en la Ley 34 del 15 de noviembre de 2007.  Residuo peligroso: Residuo que presenta una o varias de las características peligrosas enumeradas en el anexo III, y aquél que pueda aprobar el Gobierno de conformidad con lo establecido en la normativa europea o en los convenios internacionales de los que España sea parte, así como los recipientes y envases que los hayan contenido (Emgrisa, 2014).').m-auto(data-aos="fade-right")
+          img.mb-1(src='@/assets/curso/temas/3/1.svg' alt='').m-auto(data-aos="fade-right")
         figure.movil.mt-0
           .row.justify-content-center.d-lg-none.d-md-none        
             img(src="@/assets/curso/temas/3/2.svg" data-aos="zoom-in-up")  
@@ -47,7 +47,7 @@
 
           p(numero="✔" titulo="VTi") Es el puntaje de riesgo acumulado de un establecimiento, derivado de las variables transversales o comunes de todas las direcciones misionales del Instituto (áreas funcionales): alimentos, medicamentos, dispositivos médicos y cosméticos. Por ejemplo: cumplimiento de estándares sanitarios, medidas sanitarias y fecha de la última visita, entre otras.
 
-          p(numero="✔" titulo="VPI")  Es el puntaje de riesgo acumulado de un establecimiento, derivado de las variables propias de cada dirección (particulares por tipo de producto). Por ejemplo: enfermedades transmitidas por alimentos (ETA, alimentos), infecciones transmitidas por transfusiones (ITT, bancos de sangre), reacciones adversas por medicamentos (RAM, medicamentos), entre otras. 
+          p(numero="✔" titulo="VPi")  Es el puntaje de riesgo acumulado de un establecimiento, derivado de las variables propias de cada dirección (particulares por tipo de producto). Por ejemplo: enfermedades transmitidas por alimentos (ETA, alimentos), infecciones transmitidas por transfusiones (ITT, bancos de sangre), reacciones adversas por medicamentos (RAM, medicamentos), entre otras. 
 
           p(numero="✔" titulo="El riesgo SOA")  Se refiere al puntaje obtenido después de calificar los riesgos de cada uno de los productos de un establecimiento, según su severidad, ocurrencia de falla (ocurrencia) y afectación (población expuesta).
 
@@ -186,11 +186,11 @@
             .bloque-texto-g__texto.p-4.my-3
               p.pt-1.pb-3 En primera medida es importante conocer sobre el manual de procedimientos, el cual ayuda a cumplir los estándares por medio de los formatos puestos en cada visita a los establecimientos, las principales ventajas de estos procedimientos son el ahorro de tiempo en cada visita, ya que teniendo una lista donde se verifican los puntos, el funcionario que realiza la visita se enfocará solo en estos. <br> <br>  
 
-              p.pt-1.pb-3 Por otro lado, se tiene a favor el manejo de control interno, garantizando la disminución de las irregularidades y evitar posibles fallas, de igual manera, delimita responsabilidades, ya que los documentos al estar estandarizados y si llegase a ocurrir un problema, existen evidencias de la persona a cargo del proceso. <br> <br>
+              p.pt-1.pb-3 Por otro lado, se tiene a favor el manejo de control interno, garantizando la disminución de las irregularidades y evitar posibles fallas, de igual manera, delimita responsabilidades, ya que, los documentos, al estar estandarizados y si llegase a ocurrir un problema, existen evidencias de la persona a cargo del proceso. <br> <br>
 
-              p.pt-1.pb-3 Por último, está la imagen de las diferentes entidades, ya que genera confianza y mayor reputación, lo anterior se realiza como lo establece la norma.
+              p.pt-1.pb-3 Por último, está la imagen de las diferentes entidades, puesto que genera confianza y mayor reputación, lo anterior se realiza como lo establece la norma.
 
-    p.pb-3 Cada manual de procedimientos debe tener unos elementos básicos, donde se encuentran el título, marco normativo, objetivo del documento, los responsables o quien lo revisa, breve descripción de los procesos, diagrama de flujo y, por último, un glosario el cual ayuda a entender un poco más este manual.
+    p.pb-3 Cada manual de procedimientos debe tener unos elementos básicos, donde se encuentran el título, marco normativo, objetivo del documento, los responsables o quien lo revisa, breve descripción de los procesos, diagrama de flujo y, por último, un glosario, el cual ayuda a entender un poco más este manual.
     
 
                 

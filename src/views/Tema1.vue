@@ -24,7 +24,7 @@
 
         .tarjeta.color-primario.p-3(x="4.5%" y="51%" numero="+")
           .h5.mb-2 Concepto sanitario
-          p Concepto sanitario: Es “el concepto emitido por la autoridad sanitaria una vez realizada la inspección, vigilancia y control al establecimiento donde se fabriquen, procesen, preparen, envasen, almacenen transporten, distribuyan, comercialicen, importen o exporten alimentos o sus materias primas” (Ministerio de Salud y Protección Social, 2013). Gracias a esto, se ayuda a mitigar el riesgo de contaminación o algún posible riesgo sanitario.
+          p Concepto sanitario: Es “el concepto emitido por la autoridad sanitaria una vez realizada la inspección, vigilancia y control al establecimiento donde se fabriquen, procesen, preparen, envasen, almacenen, transporten, distribuyan, comercialicen, importen o exporten alimentos o sus materias primas” (Ministerio de Salud y Protección Social, 2013). Gracias a esto, se ayuda a mitigar el riesgo de contaminación o algún posible riesgo sanitario.
 
         .tarjeta.color-primario.p-3(x="17.5%" y="77%" numero="+")
           .h5.mb-2 Limpieza
@@ -79,7 +79,7 @@
           li.my-1.pb-1  
             .lista-ol--cuadro__vineta
               span(style="color:black") 5
-            | Mayor importancia de los sistemas preventivos, como las BPA (Buenas Prácticas Agrícolas), el Sistema HACCP (Análisis de peligros y puntos de control crítico) y la trazabilidad
+            | Mayor importancia de los sistemas preventivos, como las BPA (Buenas Prácticas Agrícolas), el Sistema HACCP (Análisis de peligros y puntos de control crítico) y la trazabilidad.
           li.my-1.pb-1  
             .lista-ol--cuadro__vineta
               span(style="color:black") 6
@@ -181,7 +181,8 @@
                 p ● Cafeterías.
                 p ● Cafés.
                 p ● Heladerías.
-                p ● Cocinas de catering.
+                p ● Cocinas de 
+                  b #[i catering.] 
                 p ● Organizaciones privadas al servicio del público.
     
     p.my-4 Según el Invima, existen diferentes tipos de actividades a las cuales se le deben realizar el respectivo control sanitario y se relacionan de la siguiente manera:
@@ -201,8 +202,8 @@
                 th.text-center(style="background-color:#FFAE7E" rowspan="2") Actividad
                 th.text-center(style="background-color:#FFAE7E; " colspan="2") Autoridad competente 
               tr
-                th.text-center(style="background-color:#FFAE7E") invima 
-                th.text-center(style="background-color:#FFAE7E") entidad
+                th.text-center(style="background-color:#FFAE7E") Invima 
+                th.text-center(style="background-color:#FFAE7E") Entidad territorial de salud
             tbody    
             tr
               th Fabricación 

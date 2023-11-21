@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Determinación de las condiciones del sistema de acuerdo con parámetros técnicos
+          h2 Caracterización de condiciones sanitarias de establecimientos
         p.mb-4 #[b Objetivo] Captar la atención del aprendiz en los diferentes contenidos propuestos y generar de igual manera una autoevaluación en la comprensión de estos
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

@@ -183,7 +183,7 @@
             i   Aspectos de higiene      
         .row 
           figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
-            img.mb-1(src='@/assets/curso/temas/4/7.svg' alt='En la figuro 7 se muestran las medidas de prevención.').m-auto(data-aos="fade-right")
+            img.mb-1(src='@/assets/curso/temas/4/7.svg' alt='En la figura 8 se muestran los tres grupos establecidos en los aspectos de higiene.').m-auto(data-aos="fade-right")
           figure.movil.mt-0
             .row.justify-content-center.d-lg-none.d-md-none        
               img(src="@/assets/curso/temas/4/8.svg" data-aos="zoom-in-up")   

@@ -175,6 +175,11 @@ export default {
         download: 'downloads/material.zip',
       },
       {
+        icono: 'fas fa-download',
+        titulo: 'Descargar pdf',
+        download: 'downloads/CFA_02_231100.pdf',
+      },
+      {
         icono: 'far fa-registered',
         titulo: 'Créditos',
         nombreRuta: 'creditos',
@@ -193,22 +198,22 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Autoridades sanitarias:',
+      termino: 'Autoridades sanitarias',
       significado:
         'Entidades jurídicas de carácter público con atribuciones para ejercer funciones de rectoría, regulación, inspección, vigilancia y control de los sectores público y privado en salud y adoptar medidas de prevención y seguimiento que garanticen la protección de la salud pública.',
     },
     {
-      termino: 'Desinfección:',
+      termino: 'Desinfección',
       significado:
-        'Proceso físico o químico por medio del cual se logra eliminar los microorganismos de formas vegetativas en objetos inanimados, sin que se asegure la eliminación de esporas bacterianas. Por esto los objetos y herramientas a desinfectar, se les debe evaluar previamente el nivel de desinfección que requieren para lograr la destrucción de los microorganismos que contaminan los elementos.',
+        'Proceso físico o químico por medio del cual se logra eliminar los microorganismos de formas vegetativas en objetos inanimados, sin que se asegure la eliminación de esporas bacterianas. Por esto, los objetos y herramientas a desinfectar, se les debe evaluar previamente el nivel de desinfección que requieren para lograr la destrucción de los microorganismos que contaminan los elementos.',
     },
     {
-      termino: 'Inspección:',
+      termino: 'Inspección',
       significado:
         'Consiste en la atribución que tienen la Superintendencia Nacional de Salud, el Invima, los servicios seccionales, distritales y locales de salud para verificar, solicitar, confirmar y analizar de manera ocasional, y en la forma, detalles y términos que las normas determinen, información sobre el estado higiénico-sanitario de las personas, establecimientos, edificaciones y, en general, todos los entes que de conformidad con la ley y sus reglamentos son susceptibles de ser inspeccionados por estas.',
     },
     {
-      termino: 'Prevención:',
+      termino: 'Prevención',
       significado:
         'Conjunto de acciones o medidas adoptadas o previstas, que evitan o disminuyen los accidentes de trabajo y las enfermedades profesionales, proporcionando una mejor calidad de vida a los miembros de una comunidad.',
     },
@@ -299,17 +304,18 @@ export default {
       autores: [
         {
           nombre: 'Lizeth Daniela Reinoso Diaz',
-          cargo: 'Experto temático',
+          cargo: 'Experta temática',
           centro: '"Regional Tolima - Centro Agropecuario La Granja"',
         },
         {
-          nombre: 'Gloria Alexandra Orejarena Barrios',
-          cargo: 'Diseñadora Instruccional',
-          centro: '"Regional Distrito Capital - Centro de Gestión Industrial"',
+          nombre: 'Diego Acevedo Guevara',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            '"Regional Santander - Centro de la Industria, la Empresa y los Servicios – CIES "',
         },
         {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Asesora Metodológica',
+          nombre: 'Andrés Felipe Velandia ',
+          cargo: 'Asesor Metodológico',
           centro: '"Regional Distrito Capital - Centro de Diseño y Metrología"',
         },
         {
@@ -319,7 +325,7 @@ export default {
             '"Regional Santander - Centro Industrial de Diseño y la manufactura."',
         },
         {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          nombre: 'José Gabriel Ortiz Abella',
           cargo: 'Corrección de estilo',
           centro:
             '"Regional Distrito Capital - Centro de Diseño y Metrología."',
@@ -346,7 +352,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Luis Fernando Botero Mendoza',
+          nombre: 'José Yobani Penagos Mora',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: '"Regional Tolima - Centro de Comercio y Servicios"',
         },

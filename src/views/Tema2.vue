@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 2
       h1 Trazabilidad de manejo de residuos sólidos
-    p.my-5   En el mundo se generan más de dos mil millones de toneladas de desechos sólidos al año, de los cuales alrededor del 30% no se clasificaron, presentando riesgo al medio ambiente (Banco Mundial, 2018). 
+    p.my-5   En el mundo se generan más de dos mil millones de toneladas de desechos sólidos al año, de los cuales alrededor del 30 % no se clasificaron, presentando riesgo al medio ambiente (Banco Mundial, 2018). 
 
     .row.align-items-center.my-3.col-lg-12.m-0            
       .col.p-4(style="background:#E7FFD1")
@@ -31,7 +31,7 @@
           p Es cualquier objeto, material, sustancia o elemento principalmente sólido resultante del consumo o uso de un bien en actividades domésticas, industriales, comerciales, institucionales o de servicios, que el generador presenta para su recolección por parte de la persona prestadora del servicio público de aseo.
         .tarjeta.color-primario.p-3(x="5%" y="71.5%" numero="+")
           .h5.mb-2 Botadero
-          p Actividades propias del conjunto de los servicios domiciliarios de alcantarillado y aseo.
+          p Es el sitio de disposición a cielo abierto de los residuos sólidos. Es un sitio de acumulación de residuos sólidos que no cumple con las disposiciones vigentes y crea riesgos para la salud humana y el ambiente en general.
         .tarjeta.color-primario.p-3(x="61.5%" y="88%" numero="+")
           .h5.mb-2 Biodegradación
           p Es el sitio de disposición a cielo abierto de los residuos sólidos. Es un sitio de acumulación de residuos sólidos que no cumple con las disposiciones vigentes y crea riesgos para la salud humana y el ambiente en general.
@@ -178,7 +178,7 @@
     p.my-5  De la misma manera, se pueden clasificar según su origen:
 
     
-    SlyderF(columnas="col-lg-6 col-xl-4")
+    SlyderF.cardss(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-secundario.p-4
         .row.justify-content-center.mb-3
           .col-8
@@ -214,13 +214,7 @@
         h2.text-center Residuos hospitalarios
         p.text-center En relación con la prestación de servicio de salud, se derivan distintos materiales, sustancias, líquidos, etc., los cuales son el resultado de esta actividad que se ejerce.
 
-      .tarjeta.color-secundario.p-4
-        .row.justify-content-center.mb-3
-          .col-8
-            img(src='@/assets/curso/temas/2/20.svg' alt='AvatarTop')
-        h2.text-center Residuos hospitalarios
-        p.text-center Una vez finalice la vida útil de cada artículo electrónico, este ya es considerado como residuo electrónico.
-
+      
     p.my-5  Finalmente, se pueden clasificar también según su composición:
 
     figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
@@ -354,7 +348,7 @@
               td Resolución 472 de 2017
               td Por la cual se reglamenta la Gestión Integral de los Residuos Generados en las actividades de Construcción y Demolición–RCD.
             tr
-              td COMPES 3874 de 2016
+              td CONPES 3874 de 2016
               td Política Nacional para la Gestión integral de Residuos Sólidos.
            
 
