@@ -214,6 +214,14 @@
         h2.text-center Residuos hospitalarios
         p.text-center En relación con la prestación de servicio de salud, se derivan distintos materiales, sustancias, líquidos, etc., los cuales son el resultado de esta actividad que se ejerce.
 
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/2/20.svg' alt='AvatarTop')
+        h2.text-center Residuos electrónicos
+        p.text-center Una vez finalice la vida útil de cada artículo electrónico, este ya es considerado como residuo electrónico. 
+
+      
       
     p.my-5  Finalmente, se pueden clasificar también según su composición:
 

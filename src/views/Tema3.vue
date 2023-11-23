@@ -32,7 +32,7 @@
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10 
         figure.desktop.d-none.d-sm-block.d-sm-none.d-lg-block.d-none.d-md-block
-          img.mb-1(src='@/assets/curso/temas/3/1.svg' alt='').m-auto(data-aos="fade-right")
+          img.mb-1(src='@/assets/curso/temas/3/1.svg' alt='En la figura 6 se muestra la fórmula general para el modelo de riesgo compuesto.').m-auto(data-aos="fade-right")
         figure.movil.mt-0
           .row.justify-content-center.d-lg-none.d-md-none        
             img(src="@/assets/curso/temas/3/2.svg" data-aos="zoom-in-up")  

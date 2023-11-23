@@ -106,8 +106,8 @@
     .row.align-items-center.my-3.col-lg-12.mb-4           
       .col-7.p-0(style="background:#E7FFD1")
         p.py-2.px-5.m-0(style="background:#fff") El componente general supone objetivos estratégicos de manera global, es decir, tanto de los entes reguladores de sanidad como de las comunidades implicadas, de igual manera, se establece la ruta estratégica para alcanzar los objetivos propuestos.           
-        p.py-3.px-5.m-0(style="background:#fff") Su eficacia dependerá de la concienciación, responsabilidad y solidaridad, tanto de las empresas, de su personal y de los consumidores. El protocolo para el manejo del riesgo sanitario está estructurado básicamente en dos componentes:         
-        p.my-2.px-5(style="overflow-x: hidden !important") El documento de protocolos de manejo del riesgo debe tener elementos importantes como:
+        p.py-3.px-5.m-0(style="background:#fff") Por su parte, el componente programático delimita responsabilidades para los objetivos estratégicos que incluyen programas, proyectos y fuentes de financiación.
+        p.my-3.px-5(style="overflow-x: hidden !important") El documento de protocolos de manejo del riesgo debe tener elementos importantes como:
 
         .col-sm.mb-5.mb-sm-0.px-5
           ul.lista-ul--color
